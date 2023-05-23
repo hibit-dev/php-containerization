@@ -5,15 +5,16 @@ services:
     ports:
       - "80:80"
     volumes:
-      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
       - ./app:/var/www
     working_dir: /var/www
     links:
-      - php
+      - php-fpm
 
-  php:
+  php-fpm:
     image: hibitdev/php-base:1.0-fpm
     container_name: hibit_php
     volumes:
       - ./app:/var/www
     working_dir: /var/www
+    
