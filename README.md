@@ -6,7 +6,7 @@ Instructions and full documentation are always available on [HiBit](https://www.
 Additional information about this repository can be found here:
 - [Containerizing Laravel Application using Docker](https://www.hibit.dev/posts/108/containerizing-laravel-application-using-docker)
 - [Official GitHub](https://github.com/hibit-dev/php-containerization)
-- [Official DockerHub](https://hub.docker.com/repository/docker/hibitdev/php-base)
+- [Official DockerHub](https://hub.docker.com/r/hibitdev/php-base)
 
 ## Security
 If you discover any security related issues, please email security@hibit.dev instead of using the issue tracker.
