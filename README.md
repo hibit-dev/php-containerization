@@ -6,13 +6,11 @@ In modern web development, containerization has emerged as a popular approach fo
 ## Documentation
 Discover a world of knowledge hosted on [HiBit website](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
 
-You'll find detailed instructions and comprehensive documentation for this repository on:
+You'll find detailed instructions and comprehensive documentation about this repository on:
 - [Containerizing Symfony Application using Docker](https://www.hibit.dev/posts/119/containerizing-symfony-application-using-docker)
 - [Containerizing Laravel Application using Docker](https://www.hibit.dev/posts/108/containerizing-laravel-application-using-docker)
 - [Official GitHub](https://github.com/hibit-dev/php-containerization)
 - [Official DockerHub](https://hub.docker.com/r/hibitdev/php-base)
-
-The documentation offers clear guidance on wiring and using the module, providing practical insights for a smooth integration into your projects. Take a closer look at the documentation to enhance your understanding, and don't hesitate to reach out for any specific guidance or support.
 
 ## Security
 If you discover any security related issues, please email security@hibit.dev instead of using the issue tracker.
