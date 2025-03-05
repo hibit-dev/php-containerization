@@ -9,7 +9,9 @@ Discover a world of knowledge hosted on [HiBit website](https://www.hibit.dev). 
 You'll find detailed instructions and comprehensive documentation about this repository on:
 - [Containerizing Symfony Application using Docker](https://www.hibit.dev/posts/119/containerizing-symfony-application-using-docker)
 - [Containerizing Laravel Application using Docker](https://www.hibit.dev/posts/108/containerizing-laravel-application-using-docker)
-- [Official GitHub](https://github.com/hibit-dev/php-containerization)
+- [Your first Docker Hub image from scratch](https://www.hibit.dev/posts/10/your-first-docker-hub-image-from-scratch)
+- [Official GitHub - PHP Containerization](https://github.com/hibit-dev/php-containerization)
+- [Official GitHub - PHP Base](https://github.com/hibit-dev/php-base)
 - [Official DockerHub](https://hub.docker.com/r/hibitdev/php-base)
 
 ## Security
