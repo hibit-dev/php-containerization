@@ -1,6 +1,6 @@
 services:
   nginx:
-    image: nginx:1.27.2
+    image: nginx:1.27.4
     container_name: hibit_nginx
     ports:
       - "80:80"
@@ -12,7 +12,7 @@ services:
       - php-fpm
 
   php-fpm:
-    image: hibitdev/php-base:8.3.13-fpm
+    image: hibitdev/php-base:8.3.16-fpm
     container_name: hibit_php
     volumes:
       - ./app:/var/www
