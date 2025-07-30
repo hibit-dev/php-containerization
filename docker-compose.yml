@@ -12,7 +12,7 @@ services:
       - php-fpm
 
   php-fpm:
-    image: hibitdev/php-base:8.3.17-fpm
+    image: hibitdev/php-base:8.3.27-fpm
     container_name: hibit_php
     volumes:
       - ./app:/var/www
