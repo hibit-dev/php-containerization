@@ -1,6 +1,6 @@
 services:
   nginx:
-    image: nginx:1.27.4
+    image: nginx:1.29.0
     container_name: hibit_nginx
     ports:
       - "80:80"
